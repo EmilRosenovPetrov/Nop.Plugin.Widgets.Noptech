@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Noptech",
+  "SystemName": "Widgets.Noptech",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "EmilPetrov",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.Noptech.dll",
+  "Description": "This plugin enables integration with Noptech"
+}
